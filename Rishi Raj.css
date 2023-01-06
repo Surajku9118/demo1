@@ -1,0 +1,26 @@
+*{
+box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    padding: 0px;
+    margin: 0px;
+}
+.div1{
+    width: 200px;
+    background-color: red;
+    height: 800px;
+    float: left;
+}
+ 
+.div2{
+    /* background-color: blue; */
+    height: 600px;
+    width: 100%;
+    background-image: url("wal army");
+    background-position: 100vh;
+    al
+}

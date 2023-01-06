@@ -1,0 +1,39 @@
+
+<!Doctype html>
+<html> <!--starting-->
+       <head>
+                 <title>
+                         	ADIT GROUP PICNIC
+                 </title>
+                 <style>
+                      h2{
+                          color:#25c64f;
+                         }
+                         h3,h4,h5{
+                                  color:#981717;
+                         }
+                        </style>
+      </head>
+      <body>
+                <h1 style="color:#5ee1bc">ADIT GROUP PICNIC</H1>
+                <h2>ADIT</h2>
+                <h3>SURAJ</h3>
+                <h4>Sonu</h4>
+                <h5>Rishi</h5>
+                <hr>  <!--horizontal line-->
+            
+                Picnic sandwich ideas
+  @  Egg & cress club sandwich. Fans of traditional flavours will love these bumper club sandwiches. ...
+  @  Stuffed rainbow baguette. ...
+  @  Crispy chicken & smashed avocado baps. ...
+  @  Chorizo & halloumi baguette. ...
+  @  Fig & serrano ham picnic bread. ...
+  @  Vegetarian wraps. ...
+  @  Fish finger hot dogs.
+      <tr>
+          <td>chicken party</td>
+          <td><img src="C:/Users/91865/Desktop/chicken.jpg"></td>
+       </tr>  
+       </body>
+
+</html>

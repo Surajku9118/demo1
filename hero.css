@@ -1,0 +1,21 @@
+body   {
+margin: 0;
+box-sizing: border-box;
+}
+.header{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:lightblue ;
+}
+.header .logo {
+ font-size: 25px;
+ font-weight: 'sriracha' cursive;
+ color: azure;
+ text-decoration: none;
+ margin-left: 30px;
+
+}
+
+h1{color: rgb(181, 31, 31);}
